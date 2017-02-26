@@ -1,0 +1,17 @@
+Ingredients:
+    - maggie 
+    - maggie masala
+    - 1 1/2 cups of water
+    - salt
+    - Cut vegetables
+        - 1 onion
+        - 1 tomato
+        - 1 simla mirch
+
+Directions:
+  1. Take 1 1/2 cups of water in a pan.
+  2. Add maggie masala to it.
+  3. Wait for it to boil.
+  4. Add salt to taste.
+  5. Add maggie to it at once.
+  6. Add vegetables to it.
